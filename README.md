@@ -1,5 +1,5 @@
 # ETH_proof_submission
-this is the submission code for eth proof course under metacrafters
+This is the submission code for eth proof course under metacrafters
 
 ## Description
 This is a code written in solidity which is a programming language which is used to develop smart contracts on ethereum blockchain.
