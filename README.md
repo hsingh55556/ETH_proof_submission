@@ -25,3 +25,7 @@ you can interact with different functions such as mint,burn and transfer using l
 Harniazdeep Singh
 
 @www.linkedin.com/in/harniazdeep-singh-70b978249
+
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details
